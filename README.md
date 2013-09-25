@@ -21,4 +21,4 @@ Low-cost GNSS Receiver
 
 [rtklib]: http://www.rtklib.com/ 
 [rtkgps]: https://github.com/vichetech/RtkGps
-[image]: https://github.com/vichetech/dove-GR/blob/master/trial.jpg
+[image]: https://raw.github.com/vichetech/dove-GR/blob/master/trial.jpg
