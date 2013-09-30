@@ -28,7 +28,7 @@ Low-cost GNSS Receiver
 * Android : [RtkGps Application][rtkgps]
 * Desktop : [Rtklib][rtklib]
 
-![Develop Board : USB Type GNSS Receiver][image]
+![dove_GR : Low-cost GNSS Receiver][image]
 
 [rtklib]: http://www.rtklib.com/ 
 [rtkgps]: https://github.com/vichetech/RtkGps
