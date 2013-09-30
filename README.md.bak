@@ -28,8 +28,15 @@ Low-cost GNSS Receiver
 * Android : [RtkGps Application][rtkgps]
 * Desktop : [Rtklib][rtklib]
 
+### Related Data
+* dove-GR Description : [dove-GR_Description.pdf][description]
+* GPS Module datasheet : [NV08C_CSM_DS_v2_4_ENG.pdf][nv08c]
+* Bluetooth datasheet : [BCD210.pdf][bcd210]
 ![dove_GR : Low-cost GNSS Receiver][image]
 
 [rtklib]: http://www.rtklib.com/ 
 [rtkgps]: https://github.com/vichetech/RtkGps
 [image]: https://raw.github.com/vichetech/dove-GR/master/CAM01206.jpg
+[description]: https://raw.github.com/vichetech/dove-GR/master/Dove-GR_Description.pdf
+[nv08c]: https://raw.github.com/vichetech/dove-GR/master/NV08C_CSM_DS_v2_4_ENG.pdf
+[bcd210]: https://raw.github.com/vichetech/dove-GR/master/Parani_BCDx10-v2.0.6.2_kr.pdf

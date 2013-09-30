@@ -39,4 +39,4 @@ Low-cost GNSS Receiver
 [image]: https://raw.github.com/vichetech/dove-GR/master/CAM01206.jpg
 [description]: https://raw.github.com/vichetech/dove-GR/master/Dove-GR_Description.pdf
 [nv08c]: https://raw.github.com/vichetech/dove-GR/master/NV08C_CSM_DS_v2_4_ENG.pdf
-[bcd210]: https://raw.github.com/vichetech/dove-GR/master/Parani_BCDx10-v2.0.6.2_kr.pdf
+[bcd210]: https://raw.github.com/vichetech/dove-GR/master/ds_Parani-BCD210_v1.0.0_kr.pdf
