@@ -30,6 +30,8 @@ Low-cost GNSS Receiver
 
 ### Related Data
 * dove-GR Description : [dove-GR_Description.pdf][description]
+* dove-GR Schematic : [Schematic][schematic]
+* dove-GR Dimension : [Dimension][dimension]
 * GPS Module datasheet : [NV08C_CSM_DS_v2_4_ENG.pdf][nv08c]
 * Bluetooth datasheet : [BCD210.pdf][bcd210]
 * USB to Serial Driver : [USB Driver]
@@ -42,3 +44,5 @@ Low-cost GNSS Receiver
 [nv08c]: https://raw.github.com/vichetech/dove-GR/master/NV08C_CSM_DS_v2_4_ENG.pdf
 [bcd210]: https://raw.github.com/vichetech/dove-GR/master/ds_Parani-BCD210_v1.0.0_kr.pdf
 [USB Driver]:http://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx
+[schematic]:https://raw.github.com/vichetech/dove-GR/master/doveGR_Schematic.pdf
+[dimension]:https://raw.github.com/vichetech/dove-GR/master/dove-GR_Dimension.jpg
