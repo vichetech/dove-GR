@@ -1,4 +1,4 @@
-dove-GR Trial Version
+dove-GR Develop Board
 ======
 
 Low-cost GNSS Receiver
@@ -28,8 +28,8 @@ Low-cost GNSS Receiver
 * Android : [RtkGps Application][rtkgps]
 * Desktop : [Rtklib][rtklib]
 
-![Trial Board : USB Type GNSS Receiver][image]
+![Develop Board : USB Type GNSS Receiver][image]
 
 [rtklib]: http://www.rtklib.com/ 
 [rtkgps]: https://github.com/vichetech/RtkGps
-[image]: https://raw.github.com/vichetech/dove-GR/master/trial.jpg
+[image]: https://raw.github.com/vichetech/dove-GR/master/CAM01206.jpg
