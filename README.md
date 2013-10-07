@@ -33,6 +33,7 @@ Low-cost GNSS Receiver
 * dove-GR Schematic : [Schematic][schematic]
 * dove-GR Dimension : [Dimension][dimension]
 * dove-GR RTKLib : [dove-GR RTKNavi Manual][naviM]
+* dove-GR RtkGps : [dove-GR RtkGps Manual][rtkgpsM]
 * GPS Module datasheet : [NV08C_CSM_DS_v2_4_ENG.pdf][nv08c]
 * Bluetooth datasheet : [BCD210.pdf][bcd210]
 * USB to Serial Driver : [USB Driver]
@@ -48,3 +49,4 @@ Low-cost GNSS Receiver
 [schematic]:https://raw.github.com/vichetech/dove-GR/master/doveGR_Schematic.pdf
 [dimension]:https://raw.github.com/vichetech/dove-GR/master/dove-GR_Dimension.jpg
 [naviM]:https://raw.github.com/vichetech/dove-GR/master/dove-GR_RTKLib-Navi.pdf
+[rtkgpsM]:https://raw.github.com/vichetech/dove-GR/master/RtkGps(AndroidApp)_UserManual.pdf
