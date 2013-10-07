@@ -1,4 +1,4 @@
-dove-GR Develop Board
+dove-GR Develop Board([wiki][wiki])
 ======
 
 Low-cost GNSS Receiver
@@ -39,6 +39,7 @@ Low-cost GNSS Receiver
 * USB to Serial Driver : [USB Driver]
 ![dove_GR : Low-cost GNSS Receiver][image]
 
+[wiki]: http://vichetech.com/wiki
 [rtklib]: http://www.rtklib.com/ 
 [rtkgps]: https://github.com/vichetech/RtkGps
 [image]: https://raw.github.com/vichetech/dove-GR/master/CAM01206.jpg
